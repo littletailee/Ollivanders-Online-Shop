@@ -1,0 +1,157 @@
+ BODY 
+A {
+	COLOR: #000000; FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-FAMILY: "宋体"; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #0066cc; FONT-FAMILY: "宋体"
+}
+A:hover {
+	COLOR: #ff0000; FONT-FAMILY: "宋体"; TEXT-DECORATION: underline
+}
+TD {
+	FONT-SIZE: 9pt; FONT-FAMILY: "宋体";line-height: 14pt
+}
+BODY {
+	FONT-SIZE: 9pt; FONT-FAMILY: "宋体"; bgcolor: #000000; line-height: 14pt
+}
+BODY {
+	MARGIN-TOP: 0px; FONT-SIZE: 9pt; MARGIN-BOTTOM: 0px; MARGIN-RIGHT: 0px; FONT-FAMILY: "宋体"
+}
+IMG {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+INPUT {
+	FONT-SIZE: 9pt; FONT-FAMILY: "宋体", 
+"Verdana", "Courier"
+}
+TEXTAREA {
+	FONT-SIZE: 9pt; FONT-FAMILY: "宋体", "Verdana", 
+"Courier"
+}
+.unnamed1 {
+	
+}
+body { /*cursor: url('images/cs.ani');*/
+scrollbar-face-color: #86BBF7;*/
+scrollbar-highlight-color: #FFFFFF;*/
+scrollbar-shadow-color: #D5E3FD;*/
+scrollbar-3dlight-color: #D1D7DC;
+scrollbar-arrow-color:  rgb(210,232,255);
+scrollbar-track-color: #D5E3FD;*/
+scrollbar-darkshadow-color: rgb(210,232,255); */
+}
+
+INPUT.buttonface {
+	border:1px solid #000000; padding:1px; FONT-SIZE: 11px; BACKGROUND: rgb(210,232,255); CURSOR: hand; COLOR: #000000; FONT-FAMILY: "Song", "Tahoma", "MS Shell Dlg"; HEIGHT: 18px ;onMouseOut = "this.style.backgroundColor#f3f3f3 onMouseOverthis.style.backgroundColor#000000"
+}
+.editbox1
+{
+	border-right: #7d85a2 1px solid;
+	padding-right: 1px;
+	border-top: #7d85a2 1px solid;
+	padding-left: 1px;
+	font-size: 11px;
+	padding-bottom: 1px;
+	border-left: #7d85a2 1px solid;
+	cursor: text;
+	color: #000000;
+	padding-top: 1px;
+	border-bottom: #000000 1px solid;
+	font-family: 'Times New Roman';
+	height: 16px;
+	background-color: rgb(210,232,255);
+}
+.editbox2 { BACKGROUND-COLOR:rgb(210,232,255)}
+INPUT.smallInput {
+	BORDER-RIGHT: #000000 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #000000 1px solid; PADDING-LEFT: 1px; FONT-SIZE: 11px; PADDING-BOTTOM: 1px; BORDER-LEFT: #000000 1px solid; CURSOR: text; COLOR: #000000; PADDING-TOP: 1px; BORDER-BOTTOM: #000000 1px solid; FONT-FAMILY: "Song","Tahoma","MS Shell Dlg"; HEIGHT: 18px; BACKGROUND-COLOR: rgb(210,232,255)
+}
+SELECT.smallsel {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; FONT-WEIGHT: normal; FONT-SIZE: 9pt; BORDER-LEFT: #000000 1px solid; LINE-HEIGHT: normal; BORDER-BOTTOM: #000000 1px solid; FONT-STYLE: normal; HEIGHT: 18px; FONT-VARIANT: normal 
+; font-family: "Arial", "Tahoma", "sans-serif"
+}
+.TextBorder { FONT-SIZE: 11px ; FONT-FAMILY: "Song","Tahoma","MS Shell Dlg"; BORDER-RIGHT: #000000 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #000000 1px solid; PADDING-LEFT: 1px;  PADDING-BOTTOM: 1px; BORDER-LEFT: #000000 1px solid; CURSOR:text; COLOR: #000000; PADDING-TOP: 1px; BORDER-BOTTOM: #000000 1px solid; BACKGROUND-COLOR: #FFFFFF
+}
+
+.forInput1
+{
+	border:1px solid #7D85A2; WIDTH: 37px; background-color:rgb(210,232,255); font-size:9pt
+}	
+.forInput2
+{
+	border:1px solid #7D85A2; WIDTH: 55px; background-color:rgb(210,232,255); font-size:9pt
+}	
+
+.tabTitle
+{
+	background-image: url(../images/daohang.gif);
+} 
+
+.tabgroup
+{
+	border-right: 1px;
+	border-top: 1px;
+	border-left: 1px;
+	width: 100%;
+	border-bottom: 1px;
+	cellSpacing: 0;
+	cellPadding: 0;
+	borderColorLight: #aaaaaa;
+	borderColorDark: rgb(210,232,255)
+}
+
+.tabframe
+{
+	BORDER-RIGHT: #000000 0px solid; BORDER-LEFT: #000000 0px solid
+}	
+
+.jjy {font-size: 12px;height:1;filter:DropShadow(color = #ffffff,OffX = 1,OffY = 1,Positive = 1);}
+.TextBorder { FONT-SIZE: 11px ; FONT-FAMILY: "Song","Tahoma","MS Shell Dlg"; BORDER-RIGHT: #000000 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #000000 1px solid; PADDING-LEFT: 1px;  PADDING-BOTTOM: 1px; BORDER-LEFT: #000000 1px solid; CURSOR:text; COLOR: #000000; PADDING-TOP: 1px; BORDER-BOTTOM: #000000 1px solid; BACKGROUND-COLOR: #FFFFFF
+}
+.jj1 {font-size: 12px;height:1;filter:DropShadow(color = #C0C0C0,OffX = 1,OffY = 1,Positive = 1);}
+.jj2 {font-size: 16px;height:1;filter:DropShadow(color = #C0C0C0,OffX = 1,OffY = 1,Positive = 1);}
+
+.navPoint
+{
+	font-family: Webdings;
+	font-size:9pt;
+	color:white;
+	cursor:hand;
+}
+p
+{
+	font-size:9pt;
+}
+.tblbody
+{
+	BACKGROUND: #6699c;
+	BORDER-BOTTOM: #30404f 2px solid;
+	BORDER-LEFT: #b8d2e9 2px solid;
+	BORDER-RIGHT: #30404f 2px solid;
+	BORDER-TOP: #b8d2e9 2px solid
+}
+.tblLeftbody
+{
+	BACKGROUND: #00CC33;
+	BORDER-BOTTOM: #30404f 2px solid;
+	BORDER-LEFT: #b8d2e9 2px solid;
+	BORDER-RIGHT: #30404f 0px solid;
+	BORDER-TOP: #b8d2e9 2px solid
+}.tblbody
+{
+	BACKGROUND: #6699c;
+	BORDER-BOTTOM: #30404f 2px solid;
+	BORDER-LEFT: #b8d2e9 2px solid;
+	BORDER-RIGHT: #30404f 2px solid;
+	BORDER-TOP: #b8d2e9 2px solid
+}
+.tblLeftbody
+{
+	BACKGROUND: #00CC33;
+	BORDER-BOTTOM: #30404f 2px solid;
+	BORDER-LEFT: #b8d2e9 2px solid;
+	BORDER-RIGHT: #30404f 0px solid;
+	BORDER-TOP: #b8d2e9 2px solid
+}
